@@ -1,0 +1,9 @@
+Humanoid Robot HRP-2
+Humanoid Robot HRP-2 Promet
+A summary of team MIT's approach to the Virtual Robotics Challenge
+Humanoid Robot HRP-3
+Cybernetic Human HRP-4C
+Humanoid Robot HRP-4 5 Humanoid Robotics Platform with Lightweight and Slim Body
+Vertical Ladder Climbing by the HRP-2 Humanoid Robot
+Task-Level Teleoperated Manipulation for the HRP-2Kai Humanoid Robot
+Task Sequencer Integrated into a Teleoperation Interface for Biped Humanoid Robots
